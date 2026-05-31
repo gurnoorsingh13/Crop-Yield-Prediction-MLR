@@ -1,0 +1,20 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IPython Notebook checkpoints
+.ipynb_checkpoints
+
+# Virtual Environments
+venv/
+.venv/
+env/
+
+# Ignore Word Document report
+*.docx
+
+# System files
+.DS_Store
+Thumbs.db
+Desktop.ini
